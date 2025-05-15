@@ -15,20 +15,3 @@ export const LetterList = () => {
       </div>
     );
   };
-  
-
-//   <main class="max-w-5xl mx-auto p-6 pt-24 flex-grow">
-//   <!-- Список букв -->
-//   <div class="flex flex-wrap gap-2 justify-center">
-//     <!-- A-Z буквы -->
-//     <script>
-//       const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ'.split('');
-//       document.write(letters.map(letter =>
-//         `<a href="/search.html?letter=${letter}" class="px-4 py-2 bg-white/10 border border-white/20 rounded-lg hover:bg-white/20 text-center min-w-[2.5rem]">${letter}</a>`
-//       ).join(''));
-//     </script>
-//     <noscript>
-//       <p>Включите JavaScript для отображения списка букв.</p>
-//     </noscript>
-//   </div>
-// </main>
